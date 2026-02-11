@@ -81,7 +81,7 @@ SECRET = your_secret_key
 ```bash
 npm run dev
 ```
-or use deployment live link
+## or use deployment live link
 ```bash
 https://mini-ecommerce-ene1wmm0t-himel-devnaths-projects.vercel.app/
 ```
