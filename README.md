@@ -85,6 +85,7 @@ or use deployment live link
 ```bash
 https://mini-ecommerce-ene1wmm0t-himel-devnaths-projects.vercel.app/
 ```
+## Database Schema: https://drawsql.app/teams/himel-1/diagrams/mini-ecommerce
 
 ## 📡 API Endpoints
 
